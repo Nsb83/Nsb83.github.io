@@ -15,9 +15,9 @@ Design a website that allow the user to search for concert by city, artist or co
 
 ### Données techniques / Technical data 
 _Les contraintes techniques sont de 3 ordres :_
-_* Utilisation du Framework Angular
-_* Utilisation de l’API Songkick
-_* Utilisation de l’API Google pour la localisation des évènements sur une carte
+* Utilisation du Framework Angular
+* Utilisation de l’API Songkick
+* Utilisation de l’API Google pour la localisation des évènements sur une carte
 
 Website must use : 
 * Angular Framework
